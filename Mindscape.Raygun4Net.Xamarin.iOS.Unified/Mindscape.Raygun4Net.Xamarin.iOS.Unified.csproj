@@ -173,5 +173,6 @@
     <Compile Include="..\Mindscape.Raygun4Net.Core\Messages\RaygunErrorMessage.cs">
       <Link>Messages\RaygunErrorMessage.cs</Link>
     </Compile>
+    <Compile Include="Messages\RaygunClientMessage.cs" />
   </ItemGroup>
 </Project>
